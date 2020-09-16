@@ -1,0 +1,37 @@
+.header-font {
+  font-family: 'Kaushan Script', cursive;
+
+}
+.image1 {
+height: 250px;
+ width: 100%;
+ border-radius: 1rem;
+ padding: 2px;
+}
+.image2 {
+  height:150px;
+  width: 100%;
+  border-radius: 1rem;
+  padding: 2px;
+}
+.image4 {
+  height:250px;
+  width: 100%;
+  border-radius: 1rem;
+  padding: 2px;
+
+}
+.blog-header {
+  font-weight: 600;
+}
+.blog-content {
+  font-size: 12px;
+
+}
+.author-content {
+  font-size:10px;
+}
+hr {
+ margin-left: 20%;
+margin-right: 20%;
+}
